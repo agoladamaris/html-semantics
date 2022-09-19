@@ -1,0 +1,22 @@
+body{
+    background-color: chartreuse;
+}
+/* .form-div{
+    width: 100px;
+    height: 100px;
+    background-color: crimson;
+} */
+
+form.form-example{
+    display:table;
+}
+div.form-example{
+    display: table-row;
+}
+label,input{
+    display:table-cell;
+    margin-bottom:10px
+}
+lable{
+    padding-right:10px;
+}
